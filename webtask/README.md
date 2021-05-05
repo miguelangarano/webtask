@@ -8,6 +8,6 @@ The next steps should be followed to successfully test locally the project.
 
 The server will be running on port 3000
 
-to watch a running example, follow this link: https://youtu.be/mEylRHAK7og
+to watch a running example, follow this link: https://youtu.be/Mec3wjB8zVE
 
 Welcome.
