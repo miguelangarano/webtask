@@ -18,8 +18,6 @@ async function connectMongo(){
     }
 }
 
-connectMongo()
-
 async function getCars(client){
     let data = await client.db("carsbd").collection('cars').find({});
     return data
